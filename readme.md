@@ -1,0 +1,1 @@
+https://github.com/93karolik/rsschool-2019Q1-cv/blob/gh-pages/cv.md
